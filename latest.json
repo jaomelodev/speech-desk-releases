@@ -2,5 +2,5 @@
   "version": "0.2.0",
   "dmg_url": "https://github.com/jaomelodev/speech-desk-releases/releases/download/v0.2.0/SpeechDesk-0.2.0.dmg",
   "sha256": "155c2bc8f7c27dd1033307910e170a47e1fe386a4e64d3b4210b13bc5044fafa",
-  "minimum_version": "0.1.0"
+  "minimum_version": "0.2.0"
 }
